@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Bank" ALTER COLUMN "pin" SET DATA TYPE TEXT;
